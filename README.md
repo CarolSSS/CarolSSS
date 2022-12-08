@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: chens3@illinois.edu
 
-<!-- ![](https://komarev.com/ghpvc/?username=CarolSSS) -->
+![](https://komarev.com/ghpvc/?username=CarolSSS)
 
 <!--
 **CarolSSS/CarolSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
